@@ -153,4 +153,8 @@ D:\MENTORING\MVC_tasks\DONE\Task 6\Rewarding\Rewarding\Rewarding\obj\Debug\Rewar
 D:\MENTORING\MVC_tasks\DONE\Task 6\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.csproj.GenerateResource.Cache
 D:\MENTORING\MVC_tasks\DONE\Task 6\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.dll
 D:\MENTORING\MVC_tasks\DONE\Task 6\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.pdb
-D:\MENTORING\MVC_tasks\DONE\Task 6\Rewarding\Rewarding\Rewarding\obj\Debug\Rewarding.csprojResolveAssemblyReference.cache
+D:\MENTORING\MVC_tasks\DONE\Task 6\Rewarding\Rewarding\Rewarding\bin\Antlr3.Runtime.dll
+D:\MENTORING\MVC_tasks\DONE\Task 6\Rewarding\Rewarding\Rewarding\bin\System.Web.Optimization.dll
+D:\MENTORING\MVC_tasks\DONE\Task 6\Rewarding\Rewarding\Rewarding\bin\WebGrease.dll
+D:\MENTORING\MVC_tasks\DONE\Task 6\Rewarding\Rewarding\Rewarding\bin\Antlr3.Runtime.pdb
+D:\MENTORING\MVC_tasks\DONE\Task 6\Rewarding\Rewarding\Rewarding\bin\System.Web.Optimization.xml

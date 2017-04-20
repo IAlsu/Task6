@@ -3,9 +3,9 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-@*@section breadcrumps{
-    You are here: @Html.MvcSiteMap().SiteMapPath()
-}*@
+@section styles{
+    @System.Web.Optimization.Styles.Render("~/Content/css")
+}
 
 <h4>This is my Rewarding project.</h4>
 <p>

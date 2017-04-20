@@ -1,4 +1,5 @@
-﻿using Rewarding.Migrations;
+﻿using Rewarding.App_Start;
+using Rewarding.Migrations;
 using Rewarding.Models;
 using System;
 using System.Collections.Generic;
@@ -16,7 +17,7 @@ namespace Rewarding
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
-
+            BundleConfig.RegisterBundle();
             Database.SetInitializer(new MigrateDatabaseToLatestVersion<PersonContext, Configuration>());
         }
     }

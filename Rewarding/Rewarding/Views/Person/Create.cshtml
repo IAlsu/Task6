@@ -5,6 +5,11 @@
     ViewBag.Title = "Create";
     Layout = "~/Views/Person/_LayoutPerson.cshtml";
 }
+
+@section styles{
+    @System.Web.Optimization.Styles.Render("~/Content/css")
+}
+
 @section breadcrumps{
     You are here: @Html.MvcSiteMap().SiteMapPath()
 }
